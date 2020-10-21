@@ -1,0 +1,102 @@
+body{
+	background-image:url(1.jpg);
+}
+nav {
+border:4px solid black;
+text-decoration: none;
+background:black;
+}
+a:hover{
+	text-decoration: none;
+	text-overflow: none;
+	font-size: 30px;
+	color: red;
+	margin-left: 13%;
+	font-family: Arial;
+	font-weight: bold;
+}
+a{ 
+	font-family: Arial;
+	text-decoration: none;
+	text-overflow: none;
+	font-size: 30px;
+	color: white;
+	margin-left: 13%;
+}
+footer {
+  display: block;
+  border: 3px solid black;
+  text-align: center;
+  margin-top: 5%;
+  color: white;
+  background-color: black;
+  font-family: Arial ;
+}
+img: {
+	margin-top:10px; 
+	margin-left:10px;
+}
+.logo{
+	width:35px;
+
+}
+h1{
+	font-family: Arial;
+	font-size: 50px;
+	text-align: center;
+}
+.logo2{
+	width: 180px;
+	margin-left: 42%;
+}
+.peciva{
+	width:400px;
+	display: inline;
+	margin-left: 13%;
+}
+.naslovna{
+	border:4px solid black;
+	margin-top: 1%;
+}
+
+}
+hr {
+	border: 2px solid black;
+}
+
+}
+.kontakt{
+	text-align: center;
+	border:2px solid black;
+	font-family: arial;
+	font-size: 15px;
+}
+.slika123{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.hrana1
+{
+	position: relative;
+}
+.tekst1{
+	font-family: arial;
+	 position: absolute;
+    background-color: black;
+    color: white;
+    margin-left: 42%;
+    font-size: 15px;
+}
+ h3 {
+ 	font-family: arial;
+ 	font-size: 30px;
+ 	text-align: center;
+ 	font-weight: bold;
+ 	color:black;
+}
+p{
+	font-family: arial;
+	font-size: 15px;
+}
